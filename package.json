@@ -29,7 +29,7 @@
   "dependencies": {},
   "rnpm": {
     "android": {
-      "packageInstance": "new HotspotModule()"
+      "packageInstance": "new HotspotPackage()"
     }
   }
 
